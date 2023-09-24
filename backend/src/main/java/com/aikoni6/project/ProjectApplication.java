@@ -15,7 +15,6 @@ import org.springframework.context.ApplicationContext;
     админка
     пагинация
     показ, редактирование профиля
-    test rotbl
 */
 @SpringBootApplication
 public class ProjectApplication {
