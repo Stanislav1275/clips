@@ -1,0 +1,7 @@
+.idea
+.idea/*
+frontend/node_modules
+backend/.idea
+backend/uploads
+frontend/vscode
+frontend/.idea
